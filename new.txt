@@ -3,4 +3,4 @@ https://colab.research.google.com/drive/1RFZTA8vIsXKdq4qKm9Na2GqALOugE_VU?usp=sh
 https://drive.google.com/drive/folders/1S5h0d6rz4sWCdbVpQn82AHEdVGUCt07t?usp=sharing
 
 RAG
-https://colab.research.google.com/drive/1pSG4KgEACLpLXCAs-Tj_ohmCVuK50XwR?usp=sharing
+https://colab.research.google.com/drive/1XiHoXRTSBmUBGZs6TB5izNLaHJhFvRgQ?usp=sharing
