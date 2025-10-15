@@ -2,3 +2,7 @@ https://colab.research.google.com/drive/1RFZTA8vIsXKdq4qKm9Na2GqALOugE_VU?usp=sh
 
 https://drive.google.com/drive/folders/1S5h0d6rz4sWCdbVpQn82AHEdVGUCt07t?usp=sharing
 
+os.environ['AZURE_API_KEY'] = "DbJcEW1lAmBSawlOHrSHIjyNcjU9kmgDWVUNCIBfQDbKXv5MB6TYJQQJ99BJACYeBjFXJ3w3AAABACOGBWr4"
+os.environ['AZURE_API_BASE'] = "https://qea-ai-assurance-gpt5.openai.azure.com/"
+os.environ['AZURE_API_VERSION'] = "2025-04-01-preview"  # pick the API version your Azure resource supports
+os.environ['AZURE_OPENAI_LLM_DEPLOYMENT'] ="gpt-5-mini"  # e.g., gpt-4o-deploy
